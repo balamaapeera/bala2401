@@ -1,0 +1,5 @@
+class Test{
+public void static main(String[]){
+  System.ou.println("Hello World");
+}
+}
